@@ -8,13 +8,13 @@ function isEmail($email) {
 }
 
 if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
-$position_post  = $_POST['position_post'] 
-$first_name     = $_POST['first_name'];
-$last_name     = $_POST['last_name'];
+$ime  = $_POST['ime'] 
+$prezime     = $_POST['prezime'];
+$broj     = $_POST['broj'];
 $email    = $_POST['email'];
-$comments = $_POST['comments'];
+$poruka = $_POST['poruka'];
 
-if(trim($first_name) == '') {
+if(trim($prezime) == '') {
 	echo '<div class="error_message">Attention! You must enter your name.</div>';
 	exit();
 }  else if(trim($email) == '') {
@@ -25,13 +25,13 @@ if(trim($first_name) == '') {
 	exit();
 }
 
-if(trim($comments) == '') {
+if(trim($poruka) == '') {
 	echo '<div class="error_message">Attention! Please enter your message.</div>';
 	exit();
 }
 
 if(get_magic_quotes_gpc()) {
-	$comments = stripslashes($comments);
+	$poruka = stripslashes($poruka);
 }
 
 
@@ -42,22 +42,21 @@ if(get_magic_quotes_gpc()) {
 //$address = "example@themeforest.net";
 $address = "jovicalazendic1@gmail.com";
 
-
 // Configuration option.
 // i.e. The standard subject will appear as, "You've been contacted by John Doe."
 
 // Example, $e_subject = '$name . ' has contacted you via Your Website.';
 
-$e_subject = 'You\'ve been contacted by ' . $first_name . '.';
+$e_subject = 'You\'ve been contacted by ' . $prezime . '.';
 
 
 // Configuration option.
 // You can change this if you feel that you need to.
 // Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
 
-$e_body = "You have been contacted by $first_name. $first_name selected service of $select_service, their additional message is as follows. Customer max budge is $select_price, for this project." . PHP_EOL . PHP_EOL;
-$e_content = "\"$comments\"" . PHP_EOL . PHP_EOL;
-$e_reply = "You can contact $first_name via email, $email or via phone $phone";
+$e_body = "You have been contacted by $prezime. $prezime selected service of $select_service, their additional message is as follows. Customer max budge is $select_price, for this project." . PHP_EOL . PHP_EOL;
+$e_content = "\"$poruka\"" . PHP_EOL . PHP_EOL;
+$e_reply = "You can contact $prezime via email, $email or via phone $phone";
 
 $msg = wordwrap( $e_body . $e_content . $e_reply, 70 );
 
@@ -74,7 +73,7 @@ if(mail($address, $e_subject, $msg, $headers)) {
 	echo "<fieldset>";
 	echo "<div id='success_page'>";
 	echo "<h1>Email Sent Successfully.</h1>";
-	echo "<p>Thank you <strong>$first_name</strong>, your message has been submitted to us.</p>";
+	echo "<p>Thank you <strong>$prezime</strong>, your message has been submitted to us.</p>";
 	echo "</div>";
 	echo "</fieldset>";
 
