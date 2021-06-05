@@ -945,17 +945,17 @@
 <!-- map js -->
     <div id="googleMap" style="width:100%;height:400px;"></div>
 
-<script>
-function myMap() {
-var mapProp= {
-  center:new google.maps.LatLng(44.77226531518222,17.188090577136773),
-  zoom:5,
-};
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-}
-</script>
+<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  src="https://www.google.com/maps/embed/v1/place?key=API_KEY
+    &q=Space+Needle,Seattle+WA">
+</iframe>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+<script src="https://www.google.com/maps/place/Boska/@44.7779523,17.1873493,14.73z/data=!4m5!3m4!1s0x0:0x58257801478da640!8m2!3d44.7699973!4d17.1896325?hl=bs"></script>
 <!-- google map js -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap"></script>
 <!-- end google map js -->
