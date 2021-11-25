@@ -82,7 +82,7 @@
                 </li>
                 
                 
-                <li> <a class="active" href="racunariShop.html">Dodaci za PC</a>
+                <li> <a class="active" href="arduinoShop.html">Prodavnica</a>
                   <ul>
                     <li><a href="arduinoShop.html">Arduino automatika</a></li>
                     <li><a href="kondomiShop.html">Kondomi</a></li>
