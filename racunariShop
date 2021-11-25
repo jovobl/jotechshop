@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         
+<!-- basic -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- mobile metas -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+<!-- site metas -->
+<title>JoTechShop</title>
+<meta name="keywords" content="kriptovalute Banja Luka, Ledger Banja Luka, Bitcoin Banja Luka, Ethereum Banja Luka, Bitcoin BiH,JotechShop, Jotech Shop, Banja Luka, Banjaluka, Ledger nano s, Ledger, Bitcoin, Kriptovalute">
+<meta name="description" content="">
+<meta name="author" content="">
+<!-- site icons -->
+<link rel="icon" href="images/it_service/joTech.jpg" type="image/gif" />
+<!-- bootstrap css -->
+<link rel="stylesheet" href="css/bootstrap.min.css" />
+<!-- Site css -->
+<link rel="stylesheet" href="css/style.css" />
+<!-- responsive css -->
+<link rel="stylesheet" href="css/responsive.css" />
+<!-- colors css -->
+<link rel="stylesheet" href="css/colors1.css" />
+<!-- custom css -->
+<link rel="stylesheet" href="css/custom.css" />
+<!-- wow Animation css -->
+<link rel="stylesheet" href="css/animate.css" />
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+</head>
+<body id="default_theme" class="it_shop_list">
+<!-- loader -->
+<div class="bg_load"> <img class="loader_animation" src="images/it_service/joTech.jpg" alt="#" /> </div>
+<!-- end loader -->
+<!-- header -->
+<header id="default_header" class="header_style_1">
+  <!-- header top -->
+  <div class="header_top">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="full">
+            <div class="topbar-left">
+              <ul class="list-inline">
+                <li> <span class="topbar-label"><i class="fa  fa-home"></i></span> <span class="topbar-hightlight">Banja Luka, BL 78000</span> </li>
+                <li> <span class="topbar-label"><i class="fa fa-envelope-o"></i></span> <span class="topbar-hightlight"><a href="mailto:jotechshopbl@gmail.com.com">jotechshopbl@gmail.com</a></span> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- end header top -->
+  <!-- header bottom -->
+  <div class="header_bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+          <!-- logo start -->
+          <div class="logo"> <a href="index.html"><img src="images/logos/jotech.jpg" alt="logo" /></a> </div>
+          <!-- logo end -->
+        </div>
+        <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+          <!-- menu start -->
+          <div class="menu_side">
+            <div id="navbar_menu">
+              <ul class="first-ul">
+                
+                    <li> <a href="index.html">Osnovno</a></li>
+                    <li><a href="oNama.html">O nama</a></li>
+                  <li> <a  href="Automatizacija.html">Naše usluge</a>
+
+                <ul>
+                    <li><a href="Automatizacija.html">Automatizacija</a></li>
+                    <li><a href="pametneKuce.html">Pametne kuće</a></li>
+                  </ul>
+                </li>
+                
+                
+                <li> <a class="active" href="arduinoShop.html">Prodavnica</a>
+                  <ul>
+                    <li><a href="arduinoShop.html">Arduino automatika</a></li>
+                    <li><a href="kondomiShop.html">Kondomi</a></li>
+                    <li><a href="pametneKuceShop.html">Pametne kuće</a></li>
+                    <li><a href="alatShop.html">Ostalo</a></li>
+                    <li><a href="racunariShop.html">Dodaci za PC</a></li>
+                    
+                  </ul>
+                </li>
+                <li> <a href="kontakt.html">Kontakt</a>
+                  
+                </li>
+              </ul>
+            </div>
+            
+          </div>
+          <!-- menu end -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- header bottom end -->
+</header>
+<!-- end header -->
+<!-- inner page banner -->
+<div id="inner_banner" class="section inner_banner_section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="title-holder">
+            <div class="title-holder-cell text-left">
+              <h1 class="page-title">Ostalo</h1>
+              <ol class="breadcrumb">
+                <li><a href="index.html">Osnovno</a></li>
+                <li class="active">Ostalo</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end inner page banner -->
+<!-- section -->
+<div class="section padding_layout_1 product_list_main">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row">
+          
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/testerNapona.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Bezkontaktni ispitivac tester napona detektor struje</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 12.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43100704/bezkontaktni-ispitivac-tester-napona/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/station1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>12In1 Type-C Docking Station 3.0 HDMI 4K</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">199.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/44043110/12in1-type-c-docking-station-3-0-hdmi-4k-usb-macbook/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/MjeracVlaznost.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Tester PH vrijednosti vlaznosti zemljista</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">45.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/44042958/tester-ph-vrijednosti-vlaznosti-zemljista-vlaznost/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/punjac1.jfif" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Punjac za Li-Ion baterije 18650 4.2V</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">19.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/44042884/punjac-za-li-ion-bateriju-18650-baterije-4-2v/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/mjerac11.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Vodootporni mjerač brzine brzinomjer za bicikl biciklo</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">20.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/44042800/vodootporni-mjerac-brzine-brzinomjer-za-bicikl-biciklo/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/mjerac1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Vodootporni mjerač brzine brzinomjer za bicikl biciklo</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">23.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/44042773/vodootporni-mjerac-brzine-brzinomjer-za-bicikl-biciklo/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/stap1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Teleskopski džepni štap čelični 1,1M metalni</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">35.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/44042660/prinosni-dzepni-stap-celicni-metal-1-1m-metalni/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/satSklopivi.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Bijeli digitalni LED Sat mikrokontroler sastavljanje</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">60.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/44042580/bijeli-digitalni-led-sat-mikrokontroler-sastavljanje/" target="_blank">Kupi</a>  </div>
+          </div>
+                
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/hdmiTOvga1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>HDMI to VGA adapter 3.5mm audio kabal</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43094645/hdmi-to-vga-adapter-3-5mm-audio-kabal-na/" target="_blank">Kupi</a>  </div>
+          </div>       
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/uv1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Ultra violetna lampa uv</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 14.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43101035/ultra-violetna-lampa-uv/" target="_blank">Kupi</a>  </div>
+          </div>  
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/krokodilMaleCrne.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Magnetni drzac alata radionicu alat</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>      
+                   <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43127893/magnetni-drzac-alata-radionicu-alat/" target="_blank">Kupi</a>  </div>
+          </div> 
+                 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/Crvene.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Magnetni drzac alata radionicu alat</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>      
+                   <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43127893/magnetni-drzac-alata-radionicu-alat/" target="_blank">Kupi</a>  </div>
+          </div> 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/magnet1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Magnetni drzac alata radionicu alat</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>      
+                   <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43127893/magnetni-drzac-alata-radionicu-alat/" target="_blank">Kupi</a>  </div>
+          </div>  
+           
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/zabice1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Žabice 100 komada 10 različitih vrsta</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 20.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43106691/kopce-zabice-zakacke-spojke-set-tapacirung-100-komada/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/tajmer1.PNG" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Kuhinjski tajmer digitalni</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 12.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43392318/kuhinjski-tajmer-stoperica-digitalni/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/sat.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Sat pjescani 30 minuta roza boja</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 45.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43392469/sat-pjescani-30-minuta-roza-boja/" target="_blank">Kupi</a>  </div>
+          </div>
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/ledger1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Ledger Nano S Bitcoin Wallet</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 165.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43482130/ledger-nano-s-bitcoin-wallet-hardware-ethereum/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/mining.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>PCI-E EXTENDER bitcoin mining riser</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 22.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43393506/pci-e-extender-bitcoin-mining-riser/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/termometarMali.jpeg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Digitalni termometar prozor frizider</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43394628/digitalni-termometar-prozor-frizider/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/termometar2.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Termometar digitalni bijeli sat</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 40.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43394531/termometar-digitalni-bijeli-sat/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/tester.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Digitalni tester za racunarska napajanja</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 37.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43394341/digitalni-tester-racunarska-napajanja-racunarsko/" target="_blank">Kupi</a>  </div>
+          </div>       
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/pritisak3.jpeg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Kapice za mjerenje pritiska u gumama</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43394692/kapice-za-mjerenje-pritiska-u-gumama-pritisak-guma/" target="_blank">Kupi</a>  </div>
+          </div> 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/zavarivac.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Mini prenosna varilica za kese</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 20.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43393757/mini-prenosna-varilica-za-kese/" target="_blank">Kupi</a>  </div>
+          </div> 
+                 
+             
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/kljuc4.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Multifunkcionalni rotirajuci Univerzalni kljuc 48 u 1</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 75.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43095217/multifunkcionalni-rotirajuci-univerzalni-kljuc-48-u-1/" target="_blank">Kupi</a>  </div>
+          </div> 
+                           
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/kirner3.jpeg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Automatski KIRNER udarna igla</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43098058/automatski-kirner-udarna-igla-za-obiljezavanje/" target="_blank">Kupi</a>  </div>
+          </div> 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/vaga1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Digitalna vaga preciznost 0.01 gr do500gr za nakit</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 27.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43100970/digitalna-vaga-odlicna-preciznost-0-01-gr-500-nakit/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/lokator1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>GPS lokator pametni mini locator GPRS bluetooth</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 10.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43094821/gps-lokator-pametni-mini-locator-gprs-bluetooth/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/alat3.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Univerzalni alat za spajanje zica</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 35.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43101115/univerzalni-alat-spajanje-zica-motanje/" target="_blank">Kupi</a>  </div>
+          </div>
+               
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/anemometar2.webp" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Digitalni anemometar termometar za mjerenje brzine vjetra</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 50.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43086172/digitalni-anemometar-termometar-mjerenje-brzine-vjetra/" target="_blank">Kupi</a>  </div>
+          </div>
+               
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/skener4.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Zidni skener za struju drvo metal kabal</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 100.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43085914/zidni-skener-struja-drvo-metal-kabal/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/tester1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Tester za svjecice skuter motor auto</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43106790/tester-za-svjecice-skuter-motor-auto-svjecicu-motorku/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/termometar.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Kuhinjski termometar vino meso</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 14.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43072372/kuhinjski-termometar-vino-meso/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/cistac1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Smart swab - aparat uredjaj za ciscenje usiju</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 13.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43094736/smart-swab-aparat-uredjaj-za-ciscenje-usiju/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/temperatura1.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4> LED termometar za vodu na tusu </h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 35.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43101304/lw-101-led-termometar-za-vodu-kupatilo-temperatura-vode/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/kablovi2.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Profesionalni kablovi multimetar 16 dijelova</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 27.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/43100845/profesionalni-kablovi-multimetar-16-dijelova/" target="_blank">Kupi</a>  </div>
+          </div>
+        
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/kuciste.jfif" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Kućište osigurača 5*20</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="old_price">3.00 KM</span> - <span class="new_price"> 2.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/40505688/kuciste-za-osigurac-osiguraca-5x20-5-x-20-520/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/osigurac.webp" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Osigurač 10A 5*20</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 0.40 KM/komad</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/40505813/osigurac-brzi-10a-5x20-5-x-20-520-osiguraci/" target="_blank">Kupi</a>  </div>
+          </div>
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/molex.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Molex to 6 pin</h4>
+                </div>                
+                <div class="product_price">
+                  <p><span class="new_price">7.00 KM</span></p>
+                </div>
+              </div>
+            </div>                  
+                   <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/39885124/molex-to-6-pin-mining-bitcoin/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/automat.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Samouslužni automat za prodaju zaštitnih maski</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price">1100.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/39572006/samousluzni-aparat-za-prodaju-zastitnih-maski/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/laptop.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Laptop DELL Inspiron 13 7000 2-IN-1</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 1880.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/33801051/dell-inspiron-13-7000-2-in-1-laptop/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/rukavice.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                       <h7>100 komada</h7>
+                <div class="center">
+                  <h4>ROMED rukavice poliesterske</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price"> 5.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/42551850/romed-rukavice-jednokratne-maske-poliesterske/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/brus.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>BRUS ostrač za borer</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price"> 5.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/42481084/brus-ostrac-siljalo-borer-borera/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+                 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/stepenasti.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Stepenasti borer</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price"> 13.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/42618195/stepenasti-borer-burgija-metal-drvo/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+                 
+                 
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/2psu.webp" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>PSU dual za dva napajanja Mining</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price"> 15.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/42551998/psu-dual-adapter-dva-napajanja-riser-rig-mining-bitcoin/" target="_blank">Kupi</a>  </div>
+          </div>
+          
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/baterije.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Baterije Lituimske CR 2032 3V</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price"> 2.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/39771458/baterije-lituimske-cr-2032-3v-baterija/" target="_blank">Kupi</a>  </div>
+          </div>       
+          
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/androidBox.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Android 10.0 TV Box 4GB RAM 64GB</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="old_price">220.00 KM</span> - <span class="new_price"> 200.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/40721846/android-10-0-tv-box-4gbram64gb-tastatura-plusdaljinski-iptv/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/Nosac.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Podesivi Alu nosac kamere</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="old_price">55.00 KM</span> – <span class="new_price">50.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                   <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/39715478/nosac-kamere-hickvision-kamera-nosaci/" target="_blank">Kupi</a>  </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/arduinoShop/bravica.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Kontakt brava</h4>
+                </div>
+                
+                <div class="product_price">
+                  <p><span class="new_price">10.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/25393929/kontakt-brava-arduino-elektronika-elektricna-brava/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/kondomat.jfif" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Samouslužni aparat za prodaju prezervativa (kondoma)</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="old_price">950.00 KM</span> – <span class="new_price">800.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/28369498/kondomat-aparat-za-prodaju-kondoma-samousluzni-aparat/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/odvijaci.jfif" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>Set odvijača za oštećene šarafe</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price">20.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/38749379/set-izvijaca-za-ostecene-vijke-sarafe/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/baterija.webp" alt=""> </div>
+              <div class="product_detail_btm">
+                <h7>Cijena po komadu</h7>
+                <div class="center">
+                  <h4>Baterija dugmasta LR625</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price">4.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/39885290/baterija-dugmasta-1-5v-lr625/" target="_blank">Kupi</a>  </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/splitter.webp" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4>12v PoE Power Splitter Ethernet kabal za kameru</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price">25.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/40984663/12v-poe-power-splitter-ethernet-kabal-za-kameru/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/boreri.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <h7>Set 50 komada 1mm-3mm</h7>
+                <div class="center">
+                  <h4>Set burgija za metal</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price">25.00 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/39771178/set-borera-burgija-metal/" target="_blank">Kupi</a>  </div>
+          </div>
+                 
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="images/it_service/alatShop/krokodil.jpg" alt=""> </div>
+              <div class="product_detail_btm">
+                <h7>Na stanju imamo u obe boje</h7>
+                <div class="center">
+                  <h4>Krokodil hvataljka za kabal</h4>
+                </div>
+                <div class="product_price">
+                  <p><span class="new_price">1.80 KM</span></p>
+                </div>
+              </div>
+            </div>
+                  <div class="center"><a class="btn main_bt"  href="https://www.olx.ba/artikal/39244983/krokodil-stipaljka-kroko-montazni-za-kabal/" target="_blank">Kupi</a>  </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
+<!-- section -->
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="contact_us_section">
+            <div class="call_icon"> <img src="images/it_service/phone_icon.png" alt="#" /> </div>
+            <div class="inner_cont">
+              <h2>Nazovite nas za više informacija</h2>
+              <p>Viber, Whatsapp, telegram.</p>
+            </div>
+            <div class="button_Section_cont"> <a class="btn dark_gray_bt" href="kontakt.html">065/260-784</a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
+<!-- section -->
+<div class="section padding_layout_1" style="padding: 50px 0;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <ul class="brand_list">
+            <li><img src="images/it_service/durexIkonica1.jpg" alt="#" /></li>
+            <li><img src="images/it_service/romedikonica1.jpg" alt="#" /></li>
+            <li><img src="images/it_service/arduinoikonica1.jpg" alt="#" /></li>
+            <li><img src="images/it_service/bitcoinIkonica1.jpg" alt="#" /></li>
+            <li><img src="images/it_service/joTech.jpg" alt="#" /></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
+<!-- Modal -->
+
+<!-- End Model search bar -->
+<!-- footer -->
+<footer class="footer_style_2">
+  <div class="container-fuild">
+    <div class="row">
+      <div class="map_section">
+        <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13625.047382833829!2d17.187297648702476!3d44.77608374293988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x58257801478da640!2sBoska!5e0!3m2!1sbs!2sba!4v1622897749087!5m2!1sbs!2sba" width="500" height="420" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
+
+      </div>
+      <div class="footer_blog">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="main-heading left_text">
+              <h2>Najnize cijene</h2>
+            </div>
+            <p>Trudimo se da Vam osiguramo najbolju uslugu i najnize cijene na trzistu.</p>
+            
+          </div>
+          
+          <div class="col-md-6">
+            <div class="main-heading left_text">
+              <h2>Kontaktirajte nas</h2>
+            </div>
+           
+           <br>Banja Luka<br>
+              <span style="font-size:18px;">+387 65 260 784</span></p>
+            <div class="footer_mail-section">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="cprt">
+        <p>Stranicu kreirao JoTechShop</p>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- end footer -->
+<!-- js section -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!-- menu js -->
+<script src="js/menumaker.js"></script>
+<!-- wow animation -->
+<script src="js/wow.js"></script>
+<!-- custom js -->
+<script src="js/custom.js"></script>
+<!-- revolution js files -->
+<script src="revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+<!-- map js -->
+
+
+</body>
+</html>
